@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870752888706",
+    "project_id": "fiinalwork",
+    "storage_bucket": "fiinalwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870752888706:android:64a4d2322908eddae0d19b",
+        "android_client_info": {
+          "package_name": "colin.turing.flutter_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870752888706-8s5bbeffafql9mmpntocarhb1bcqm7mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4_byfA31o5v1UfwDZ4Y6WJZCSO5upuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870752888706-8s5bbeffafql9mmpntocarhb1bcqm7mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
