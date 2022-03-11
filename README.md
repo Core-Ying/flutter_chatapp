@@ -2,8 +2,7 @@
 
 基于Firebas的实时聊天app
 
-## Getting Started
-
+## 项目展示
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
