@@ -1,6 +1,6 @@
 # flutter_chatapp
 
-A new Flutter application.
+基于Firebas的实时聊天app
 
 ## Getting Started
 
